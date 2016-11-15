@@ -1,5 +1,5 @@
 # TareaPresencialED02
 
-Comentario
+Comentario inicial
 
 Diego Tesifón López Ramos
